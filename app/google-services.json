@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435798156708",
+    "firebase_url": "https://fir-home-dad16-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-home-dad16",
+    "storage_bucket": "fir-home-dad16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435798156708:android:1ff35297e46e403aad4d31",
+        "android_client_info": {
+          "package_name": "com.example.learnfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435798156708-cblasrbn8nh0tc52vhhblpa5paqrgpaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learnfirebase",
+            "certificate_hash": "441c45950f6309b7164fa805cfbe42ee698e95e2"
+          }
+        },
+        {
+          "client_id": "435798156708-25d7lnusd6u1k2mujo8o715r8362c9r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr62cZQHxggB8xa7aTmM0TN4rNIs3UBFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435798156708-25d7lnusd6u1k2mujo8o715r8362c9r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
